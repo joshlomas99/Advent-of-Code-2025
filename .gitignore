@@ -1,0 +1,4 @@
+.vscode/
+.pylint*
+Inputs/
+*.gif
